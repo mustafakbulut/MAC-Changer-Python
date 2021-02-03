@@ -2,7 +2,7 @@
 This is a simple MAC Address Changer with python on Linux.
 
 # Usage
-Type in terminal : python3 mac_changer.py -i <yourInterface> -m <requestedMACaddress>
+Type in terminal : python3 mac_changer.py -i <yourInterface> -m <requestedMACaddress> \n
 You can use either python and python3.
 
 # An Example
