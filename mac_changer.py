@@ -24,7 +24,6 @@ def new_mac_control(interface):
         return new_mac.group(0)
     else:
         return None
-print("Mac Changer started.")
 (user_interface, arguments) = get_inputs()
 interface=get_interface(user_interface)
 mac_address=get_macAddress(user_interface)
